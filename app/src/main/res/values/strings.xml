@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PokeDex</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="welcome_text">Welcome to your PokéDex</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="search_title">Search your Pokemon</string>
+    <string name="search_instructions">Seek your Pokemon in the list or find your pokemon in the search field</string>
+    <string name="search_hint">Name of Pokemon</string>
+    <string name="btn_title">Search</string>
+    <string name="delete_pokemons">Delete Pokemons</string>
+    <string name="pokemon_weight">Weight: %1$s</string>
+    <string name="pokemon_height">Height: %1$s</string>
+    <string name="pokemon_not_found">Pokemon Not Found</string>
+</resources>
